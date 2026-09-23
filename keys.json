@@ -1,9 +1,19 @@
 {
   "keys": [
     {
-      "key": "ABC123",
+      "key": "nubbie",
       "used": false,
       "hwid": null
     }
   ]
-}
+},
+{
+  "keys": [
+    {
+      "key": "gey",
+      "used": false,
+      "hwid": null
+    }
+  ]
+},
+
