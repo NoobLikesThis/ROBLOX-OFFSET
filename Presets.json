@@ -279,8 +279,7 @@
             "HumanoidRigDescriptionDebugDraw": "True",
             "VoiceMetricsDebugDrawEnabled4": "True"
         },
-        "esp-Version_idk":
-        {
+        "esp-Version_idk": {
             "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
         },
         "xrayv1": {
