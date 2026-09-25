@@ -258,12 +258,12 @@
             "MovePrerenderV2": "False",
             "MovePrerender": "False"
         },
-        "esp": {
+        "espv1": {
             "DebugDrawEnable": "True",
             "VoiceMetricsDataEnabled3": "True",
             "VoiceMetricsDebugDrawEnabled4": "True"
         },
-        "Full_esp": {
+        "espv2": {
             "DebugDraw3dAudioInfo": "True",
             "DebugDrawControllerManagerAdorns": "True",
             "DebugDrawControllerSensorDataFindLadder": "True",
@@ -279,7 +279,7 @@
             "HumanoidRigDescriptionDebugDraw": "True",
             "VoiceMetricsDebugDrawEnabled4": "True"
         },
-        "esp-Version_idk": {
+        "espv3": {
             "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
         },
         "xrayv1": {
@@ -289,5 +289,11 @@
         "xrayv2": {
             "DebugDrawBroadPhaseAABBs": "True",
             "CameraFarZPlane": "0"
+        },
+        "xrayv3": {
+            "DebugDisableModelClusterOcclusionCulling": "True",
+            "FastClusterEnableTransparentHighlights2": "True",
+            "HighlightMobileDepthFix": "True",
+            "HighlightOutlinesOnMobile": "True"
         }
     }
