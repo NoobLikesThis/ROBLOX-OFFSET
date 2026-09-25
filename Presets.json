@@ -256,7 +256,7 @@
             "DebugNextGenRepAttributeRep": "True",
             "UserCameraControlLastInputTypeUpdate": "False",
             "MovePrerenderV2": "False",
-            "MovePrerender": "False",
+            "MovePrerender": "False"
         },
         "esp": {
             "DebugDrawEnable": "True",
