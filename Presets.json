@@ -117,7 +117,7 @@
             "ReplicateCreateToPlayer": "True",
             "RakNetUseSlidingWindow4": "True",
             "RakNetEnablePoll": "True",
-            "FullscreenTitleBarTriggerDelayMillis": "3600000",
+            "FullscreenTitleBarTriggerDelayMillis": "3600000"
         },
         "optimizer": {
             "DebugSimulateHangAtStartup": "False",
