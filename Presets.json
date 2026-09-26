@@ -295,5 +295,14 @@
             "FastClusterEnableTransparentHighlights2": "True",
             "HighlightMobileDepthFix": "True",
             "HighlightOutlinesOnMobile": "True"
+        },
+        "Wallhop_PRO": {
+            "MaximumFreefallMoveTimeInTenths": "9999999",
+            "MinimumFreefallMoveDistanceInTenths": "100",
+            "MaximumUnstickForceInGs": "-1",
+            "UnstickForceDecayInTenths": "1",
+            "UnstickForceEpsilonInHundredths": "1",
+            "FixFreefall": "True",
+            "FixFreefallCleanup": "True"
         }
     }
