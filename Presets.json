@@ -259,7 +259,7 @@
             "MovePrerender": "False"
         },
         "Autoclick fixer": {
-            "FIntCLI20390_2": "0"
+            "CLI20390_2": "0"
         },
         "ESP V1": {
             "DebugDrawEnable": "True",
