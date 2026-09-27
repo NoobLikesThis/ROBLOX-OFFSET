@@ -1,8 +1,8 @@
 {
-        "infinite_jump": {
+        "Infinite jump": {
             "ExtraFloorRaycastDistanceHipHeightPercent": "2147483647"
         },
-        "high_jump": {
+        "High jump": {
             "DebugSimAdaptiveEnable60HzHumanoids": "True",
             "SimAdaptiveEnable60HzParts": "True",
             "ExtraFloorRaycastDistanceHipHeightPercent": "10000000",
@@ -11,24 +11,24 @@
             "SimTimestepMultiplierDebounceCount": "1",
             "DebugHumanoidNewPhysicsEnabled": "True"
         },
-        "speed": {
+        "Speed": {
             "SimTimestepMultiplierDebounceCount": "10",
             "DebugHumanoidNewPhysicsEnabled": "True",
             "DebugSimAdaptiveEnable60HzHumanoids": "True",
             "SimAdaptiveEnable60HzParts": "True"
         },
-        "freeze_ctrl_f7": {
+        "Freeze Players (ctrl+f7)": {
             "DebugEnableInterpThrottle": "True"
         },
-        "omega": {
+        "Omega jump": {
             "DebugHumanoidNewPhysicsEnabled": "true",
             "DebugSimLevitationNormalPD2": "true",
             "DebugSimLevitationNormalPD100xPeriod": "4"
         },
-        "parthighlight": {
+        "Part Highlight": {
             "DebugDrawBroadPhaseAABBs": "true"
         },
-        "fps": {
+        "FPS": {
             "GuiHidingApiSupport2": "True",
             "EnableInGameMenuChrome": "False",
             "DebugCheckRenderThreading": "True",
@@ -51,7 +51,7 @@
             "LuaAppLegacyInputSettingRefactor": "True",
             "MovePrerender": "True"
         },
-        "fpsv2": {
+        "FPS V2": {
             "HandleAltEnterFullscreenManually": "False",
             "HighlightOutlinesOnMobile": "True",
             "FastGPULightCulling3": "True",
@@ -119,7 +119,7 @@
             "RakNetEnablePoll": "True",
             "FullscreenTitleBarTriggerDelayMillis": "3600000"
         },
-        "optimizer": {
+        "FPS V3": {
             "DebugSimulateHangAtStartup": "False",
             "DebugSimulateHangAtShutdown": "false",
             "DebugDynamicRenderKiloPixels": "1028",
@@ -147,7 +147,7 @@
             "FullscreenTitleBarTriggerDelayMillis": "3600000",
             "NewCameraControls": "True"
         },
-        "fpsv55": {
+        "FPS V4": {
             "V1MenuLanguageSelectionFeaturePerMillageRollout": "0",
             "TextureQualityOverrideEnabled": "True",
             "FullscreenTitleBarTriggerDelayMillis": "18000000",
@@ -258,12 +258,15 @@
             "MovePrerenderV2": "False",
             "MovePrerender": "False"
         },
-        "espv1": {
+        "Autoclick fixer": {
+            "FIntCLI20390_2": "0"
+        },
+        "ESP V1": {
             "DebugDrawEnable": "True",
             "VoiceMetricsDataEnabled3": "True",
             "VoiceMetricsDebugDrawEnabled4": "True"
         },
-        "espv2": {
+        "ESP V2": {
             "DebugDraw3dAudioInfo": "True",
             "DebugDrawControllerManagerAdorns": "True",
             "DebugDrawControllerSensorDataFindLadder": "True",
@@ -279,24 +282,24 @@
             "HumanoidRigDescriptionDebugDraw": "True",
             "VoiceMetricsDebugDrawEnabled4": "True"
         },
-        "espv3": {
+        "ESP V3": {
             "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
         },
-        "xrayv1": {
+        "XRAY V1": {
             "DebugRenderMeshPauseContentRequests": "True",
             "UseVisBugChecks": "False"
         },
-        "xrayv2": {
+        "XRAY V2": {
             "DebugDrawBroadPhaseAABBs": "True",
             "CameraFarZPlane": "0"
         },
-        "xrayv3": {
+        "XRAY V4": {
             "DebugDisableModelClusterOcclusionCulling": "True",
             "FastClusterEnableTransparentHighlights2": "True",
             "HighlightMobileDepthFix": "True",
             "HighlightOutlinesOnMobile": "True"
         },
-        "Wallhop_PRO": {
+        "Wallhop assist": {
             "MaximumFreefallMoveTimeInTenths": "9999999",
             "MinimumFreefallMoveDistanceInTenths": "100",
             "MaximumUnstickForceInGs": "-1",
