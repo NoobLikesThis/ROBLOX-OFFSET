@@ -261,6 +261,12 @@
         "Autoclick fixer": {
             "CLI20390_2": "0"
         },
+        "No George Jumping": {
+            "UnlockCollisionScaling": "False"
+        },
+        "Legacy phys": {
+            "SatPolyPolyContactEnabled": "True"
+        },
         "ESP V1": {
             "DebugDrawEnable": "True",
             "VoiceMetricsDataEnabled3": "True",
