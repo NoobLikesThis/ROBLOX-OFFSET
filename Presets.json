@@ -37,6 +37,14 @@
         "Show interacted Chunks": {
             "DebugEnableStreamingSolverVisualization": "True"
         },
+        "Visualize Touching Objects": {
+            "FlatMidPhase": "True",
+            "DebugDrawFlatMidPhase": "True"
+        },
+        "Visualize Touching Terrain": {
+            "FlatMidPhase": "True",
+            "DebugDrawFlatMidPhaseTerrain": "True"
+        },
         "ESP V1": {
             "DebugDrawEnable": "True",
             "VoiceMetricsDataEnabled3": "True",
@@ -119,6 +127,10 @@
             "SimGroundControllerBalanceDerivedLocomotionLimitPercent": "-1",
             "SimTimestepMultiplierDebounceCount": "-9999999999",
             "DebugSimSolverLevitationDeactivateTurning": "true"
+        },
+        "Desync": {
+            "DFIntPhysicsSenderMaxBandwidthBps": "1",
+            "DFIntTouchSenderMaxBandwidthBpsScaling": "1"
         },
         "FPS": {
             "GuiHidingApiSupport2": "True",
@@ -364,6 +376,11 @@
             "RenderClampRoughnessMax": "0",
             "RenderUseTextureManager224": "False",
             "DebugTextureManagerSkipMips": "8"
+        },
+        "Render Optimization": {
+            "FRMFinalDistanceAddStuds": "100",
+            "FRMFinalDistanceMaxStuds": "100",
+            "FRMFinalDistanceMinStuds": "0"
         },
         "Autoclick fixer": {
             "CLI20390_2": "0"
