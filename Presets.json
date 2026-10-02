@@ -372,7 +372,7 @@
             "UnlockCollisionScaling": "False"
         },
         "Legacy Phys": {
-            "SatPolyPolyContactEnabled2": "True"
+            "SatPolyPolyContactEnabled2": "False"
         },
         "Beta Phys": {
             "DebugHumanoidNewPhysicsEnabled": "True"
