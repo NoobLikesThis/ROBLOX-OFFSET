@@ -113,6 +113,13 @@
             "GroundControllerTurningResponsiveness": 2345666,
             "AirControllerTurningResponsiveness": 2345666
         },
+        "Speed": {
+            "DebugHumanoidNewPhysicsEnabled": "True",
+            "SimGroundControllerBalanceDerivedLocomotionLimit": "1",
+            "SimGroundControllerBalanceDerivedLocomotionLimitPercent": "-1",
+            "SimTimestepMultiplierDebounceCount": "-9999999999",
+            "DebugSimSolverLevitationDeactivateTurning": "true"
+        },
         "FPS": {
             "GuiHidingApiSupport2": "True",
             "EnableInGameMenuChrome": "False",
