@@ -28,6 +28,15 @@
         "Part Highlight": {
             "DebugDrawBroadPhaseAABBs": "true"
         },
+        "Everything Highlight": {
+            "DebugDrawBvhNodes": "True"
+        },
+        "Show Outlined Chunks": {
+            "DebugLightGridShowChunks": "True"
+        },
+        "Show interacted Chunks": {
+            "DebugEnableStreamingSolverVisualization": "True"
+        },
         "FPS": {
             "GuiHidingApiSupport2": "True",
             "EnableInGameMenuChrome": "False",
@@ -291,6 +300,10 @@
         "ESP V3": {
             "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
         },
+        "ESP V4": {
+            "DebugDrawBroadPhaseAABBs": "True",
+            "CameraFarZPlane": "0"
+        },
         "XRAY V1": {
             "DebugRenderMeshPauseContentRequests": "True",
             "UseVisBugChecks": "False"
@@ -313,5 +326,6 @@
             "UnstickForceEpsilonInHundredths": "1",
             "FixFreefall": "True",
             "FixFreefallCleanup": "True"
-        }
+        },
+        "No 
     }
