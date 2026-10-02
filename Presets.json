@@ -327,5 +327,10 @@
             "FixFreefall": "True",
             "FixFreefallCleanup": "True"
         },
-        "No 
+        "No Fall": {
+            "GameNetPVHeaderTranslationZeroCutoffExponent": "-1",
+            "GameNetPVHeaderRotationalVelocityZeroCutoffExponent": "3",
+            "GameNetPVHeaderLinearVelocityZeroCutoffExponent": "3",
+            "GameNetPVHeaderRotationOrientIdToleranceExponent": "-2147483647"
+        }
     }
