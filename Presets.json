@@ -37,6 +37,82 @@
         "Show interacted Chunks": {
             "DebugEnableStreamingSolverVisualization": "True"
         },
+        "ESP V1": {
+            "DebugDrawEnable": "True",
+            "VoiceMetricsDataEnabled3": "True",
+            "VoiceMetricsDebugDrawEnabled4": "True"
+        },
+        "ESP V2": {
+            "DebugDraw3dAudioInfo": "True",
+            "DebugDrawControllerManagerAdorns": "True",
+            "DebugDrawControllerSensorDataFindLadder": "True",
+            "DebugDrawEnable": "True",
+            "DebugDrawEngineContext": "True",
+            "DebugDrawLoDExtents": "True",
+            "DebugDrawNavTrussClimbing": "True",
+            "DebugDrawOcclusionPaths": "True",
+            "DebugDrawVolumetricEmitter": "True",
+            "DebugDrawVolumetricPanningName": "1",
+            "DebugDrawVolumetricPanning": "True",
+            "EnableOctreeDebugDraw": "True",
+            "HumanoidRigDescriptionDebugDraw": "True",
+            "VoiceMetricsDebugDrawEnabled4": "True"
+        },
+        "ESP V3": {
+            "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
+        },
+        "ESP V4": {
+            "DebugDrawBroadPhaseAABBs": "True",
+            "CameraFarZPlane": "0"
+        },
+        "XRAY V1": {
+            "DebugRenderMeshPauseContentRequests": "True",
+            "UseVisBugChecks": "False"
+        },
+        "XRAY V2": {
+            "DebugDrawBroadPhaseAABBs": "True",
+            "CameraFarZPlane": "0"
+        },
+        "XRAY V4": {
+            "DebugDisableModelClusterOcclusionCulling": "True",
+            "FastClusterEnableTransparentHighlights2": "True",
+            "HighlightMobileDepthFix": "True",
+            "HighlightOutlinesOnMobile": "True"
+        },
+        "Wallhop assist": {
+            "MaximumFreefallMoveTimeInTenths": "9999999",
+            "MinimumFreefallMoveDistanceInTenths": "100",
+            "MaximumUnstickForceInGs": "-1",
+            "UnstickForceDecayInTenths": "1",
+            "UnstickForceEpsilonInHundredths": "1",
+            "FixFreefall": "True",
+            "FixFreefallCleanup": "True"
+        },
+        "No Fall": {
+            "GameNetPVHeaderTranslationZeroCutoffExponent": "-1",
+            "GameNetPVHeaderRotationalVelocityZeroCutoffExponent": "3",
+            "GameNetPVHeaderLinearVelocityZeroCutoffExponent": "3",
+            "GameNetPVHeaderRotationOrientIdToleranceExponent": "-2147483647"
+        },
+        "Mesh Noclip": {
+            "BulletContactBreakOrthogonalThresholdActivatePercent": "2147483647",
+            "BulletContactBreakThresholdPercent": "-2147483648",
+            "BulletContactBreakOrthogonalThresholdPercent": "-2147483648",
+            "SimCSG3DcdMaxContacts": "0",
+            "SimContactFilteringCutoff": "0",
+            "SimInvalidateContactsEveryFixedStep": "true",
+            "SeparateBufferZoneFromContactBuffer": "false"
+        },
+        "Spin V1": {
+            "DebugHumanoidNewPhysicsEnabled": "True",
+            "DebugSimSolverLevitationDeactivateTurning": "True"
+        },
+        "Spin V2": {
+            "DebugHumanoidNewPhysicsEnabled": true,
+            "DebugSimSolverLevitationDeactivateTurning": true,
+            "GroundControllerTurningResponsiveness": 2345666,
+            "AirControllerTurningResponsiveness": 2345666
+        },
         "FPS": {
             "GuiHidingApiSupport2": "True",
             "EnableInGameMenuChrome": "False",
@@ -267,70 +343,31 @@
             "MovePrerenderV2": "False",
             "MovePrerender": "False"
         },
+        "FPS V5": {
+            "DebugFRMQualityLevelOverride": "1",
+            "BloomFrmCutoff": "2147483647",
+            "DebugForceMSAASamples": "4",
+            "TerrainArraySliceSize": "0",
+            "FRMMaxGrassDistance": "0",
+            "FRMMinGrassDistance": "0",
+            "CSGVoxelizerFadeRadius": "0",
+            "DebugSkipMeshVoxelizer": "True",
+            "DebugDontDeformMaterials": "True",
+            "DebugRestrictGCDistance": "21",
+            "RenderClampRoughnessMax": "0",
+            "RenderUseTextureManager224": "False",
+            "DebugTextureManagerSkipMips": "8"
+        },
         "Autoclick fixer": {
             "CLI20390_2": "0"
         },
         "No George Jumping": {
             "UnlockCollisionScaling": "False"
         },
-        "Legacy phys": {
-            "SatPolyPolyContactEnabled": "True"
+        "Legacy Phys": {
+            "SatPolyPolyContactEnabled2": "True"
         },
-        "ESP V1": {
-            "DebugDrawEnable": "True",
-            "VoiceMetricsDataEnabled3": "True",
-            "VoiceMetricsDebugDrawEnabled4": "True"
-        },
-        "ESP V2": {
-            "DebugDraw3dAudioInfo": "True",
-            "DebugDrawControllerManagerAdorns": "True",
-            "DebugDrawControllerSensorDataFindLadder": "True",
-            "DebugDrawEnable": "True",
-            "DebugDrawEngineContext": "True",
-            "DebugDrawLoDExtents": "True",
-            "DebugDrawNavTrussClimbing": "True",
-            "DebugDrawOcclusionPaths": "True",
-            "DebugDrawVolumetricEmitter": "True",
-            "DebugDrawVolumetricPanningName": "1",
-            "DebugDrawVolumetricPanning": "True",
-            "EnableOctreeDebugDraw": "True",
-            "HumanoidRigDescriptionDebugDraw": "True",
-            "VoiceMetricsDebugDrawEnabled4": "True"
-        },
-        "ESP V3": {
-            "UserPlayerScriptsTapToMoveUsesIAS2": "99999"
-        },
-        "ESP V4": {
-            "DebugDrawBroadPhaseAABBs": "True",
-            "CameraFarZPlane": "0"
-        },
-        "XRAY V1": {
-            "DebugRenderMeshPauseContentRequests": "True",
-            "UseVisBugChecks": "False"
-        },
-        "XRAY V2": {
-            "DebugDrawBroadPhaseAABBs": "True",
-            "CameraFarZPlane": "0"
-        },
-        "XRAY V4": {
-            "DebugDisableModelClusterOcclusionCulling": "True",
-            "FastClusterEnableTransparentHighlights2": "True",
-            "HighlightMobileDepthFix": "True",
-            "HighlightOutlinesOnMobile": "True"
-        },
-        "Wallhop assist": {
-            "MaximumFreefallMoveTimeInTenths": "9999999",
-            "MinimumFreefallMoveDistanceInTenths": "100",
-            "MaximumUnstickForceInGs": "-1",
-            "UnstickForceDecayInTenths": "1",
-            "UnstickForceEpsilonInHundredths": "1",
-            "FixFreefall": "True",
-            "FixFreefallCleanup": "True"
-        },
-        "No Fall": {
-            "GameNetPVHeaderTranslationZeroCutoffExponent": "-1",
-            "GameNetPVHeaderRotationalVelocityZeroCutoffExponent": "3",
-            "GameNetPVHeaderLinearVelocityZeroCutoffExponent": "3",
-            "GameNetPVHeaderRotationOrientIdToleranceExponent": "-2147483647"
+        "Beta Phys": {
+            "DebugHumanoidNewPhysicsEnabled": "True"
         }
     }
