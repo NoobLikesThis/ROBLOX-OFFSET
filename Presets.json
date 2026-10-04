@@ -405,7 +405,8 @@
             "CLI20390_2": "0"
         },
         "No George Jumping": {
-            "UnlockCollisionScaling": "False"
+            "UnlockCollisionScaling": "False",
+            "CollisionScalingDefaultStudTenths": "8"
         },
         "Legacy Phys": {
             "SatPolyPolyContactEnabled2": "False"
