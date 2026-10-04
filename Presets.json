@@ -377,6 +377,25 @@
             "RenderUseTextureManager224": "False",
             "DebugTextureManagerSkipMips": "8"
         },
+        "Legit Ping Booster": {
+            "ClientPacketMaxDelayMs": 0,
+            "ClientPacketMinMicroseconds": 0,
+            "ClientPacketExcessMicroseconds": 0,
+            "ClientPacketMaxFrameMicroseconds": 0,
+            "MaxProcessPacketsJobScaling": 2147483647,
+            "MaxProcessPacketsStepsAccumulated": 0,
+            "MaxProcessPacketsStepsPerCyclic": 2147483647
+        },
+        "Low Res": {
+            "DebugDynamicRenderKiloPixels":"2"
+        },
+        "No Textures V1": {
+            "RenderTextureTotalBudgetCount": 0
+        },
+        "No Textures V2": {
+            "RenderUseTextureManager224": "false",
+            "DebugTextureManagerSkipMips": "8"
+        },
         "Render Optimization": {
             "FRMFinalDistanceAddStuds": "100",
             "FRMFinalDistanceMaxStuds": "100",
