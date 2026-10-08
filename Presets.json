@@ -384,7 +384,9 @@
             "ClientPacketMaxFrameMicroseconds": "0",
             "MaxProcessPacketsJobScaling": "2147483647",
             "MaxProcessPacketsStepsAccumulated": "0",
-            "MaxProcessPacketsStepsPerCyclic": "2147483647"
+            "MaxProcessPacketsStepsPerCyclic": "2147483647",
+            "DFIntPhysicsSenderMaxBandwidthBps": "100",
+            "DFIntTouchSenderMaxBandwidthBpsScaling": "100"
         },
         "Low Res": {
             "DebugDynamicRenderKiloPixels":"2"
