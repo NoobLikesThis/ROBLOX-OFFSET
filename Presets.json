@@ -111,6 +111,18 @@
             "SimInvalidateContactsEveryFixedStep": "true",
             "SeparateBufferZoneFromContactBuffer": "false"
         },
+        "Network Ownership": {
+            "ClientMaxOwnedAwakeAssemblies": "2147483647",
+            "ClientMaxOwnedAwakeAssembliesBufferHundredth": "2147483647",
+            "ClientMaxOwnedAwakeAssembliesNumFramesBeforeReact": "0",
+            "DebugPhysicsSenderDoesNotShrinkSimRadius": "True",
+            "DebugUseCustomSimRadius": "True",
+            "MaxClientSimulationRadius": "2147483647",
+            "MinClientSimulationRadius": "2147483647",
+            "MinimalSimRadiusBuffer": "0",
+            "ClientOwnershipMs": "2147483647",
+            "ServerAutomaticNetworkOwnershipBufferMs": "0"
+        },
         "Spin V1": {
             "DebugHumanoidNewPhysicsEnabled": "True",
             "DebugSimSolverLevitationDeactivateTurning": "True"
