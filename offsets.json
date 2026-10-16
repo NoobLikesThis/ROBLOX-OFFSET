@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-7a0c6d10fcb34a2c",
+  "Roblox Version": "version-11f155f3450f4c8e",
   "Dumper Version": "2.2.4",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "06:33 13/10/2026",
+  "Dumped At": "19:22 15/10/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 148303944,
+      "Pointer": 148312904,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 142909616,
+      "Pointer": 142918368,
       "Dimensions": 2832,
       "ViewMatrix": 432,
       "RenderView": 3128,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 148659456,
+      "Pointer": 148668416,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -84,7 +84,7 @@
     },
     "RunService": {
       "HeartbeatTask": 224,
-      "HeartbeatFPS": 192
+      "HeartbeatFPS": 200
     },
     "RenderJob": {
       "RenderView": 480,
@@ -244,7 +244,7 @@
       "PlatformStand": 473,
       "UseJumpPower": 477,
       "AutomaticScalingEnabled": 466,
-      "BreakJointsOnDeath": 467,
+      "BreakJointsOnDeath": 213,
       "EvaluateStateMachine": 468,
       "RequiresNeck": 474,
       "AutoJumpEnabled": 464,
@@ -270,7 +270,7 @@
       "TurnSpeed": 552
     },
     "StatsItem": {
-      "Value": 384
+      "Value": 1280
     },
     "Tool": {
       "Tooltip": 1112,
@@ -278,7 +278,7 @@
       "Grip": 1180,
       "Enabled": 1193,
       "CanBeDropped": 1192,
-      "ManualActivationOnly": 837,
+      "ManualActivationOnly": 1194,
       "RequiresHandle": 1195
     },
     "Clothing": {
@@ -304,7 +304,7 @@
     "BasePart": {
       "Primitive": 384,
       "Transparency": 288,
-      "Color3": 428,
+      "Color3": 57,
       "Shape": 424,
       "Massless": 298,
       "CastShadow": 296,
@@ -532,10 +532,10 @@
     "LRUNode": {
       "Next": 0,
       "AssetID": 16,
-      "CachedItem": 56
+      "CachedItem": 64
     },
     "CachedItem": {
-      "FileMeshData": 40
+      "FileMeshData": 64
     },
     "FileMeshData": {
       "AABBMin": 384,
