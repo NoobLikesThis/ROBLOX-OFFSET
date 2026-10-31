@@ -25,6 +25,11 @@
             "DebugSimLevitationNormalPD2": "true",
             "DebugSimLevitationNormalPD100xPeriod": "4"
         },
+        "Bouncy": {
+            "SimLevitationGravityBasedLevitation2": 1,
+            "SimLevitationGravityBasedScaleHundredths": 500,
+            "DebugHumanoidNewPhysicsEnabled": true
+        },
         "Part Highlight": {
             "DebugDrawBroadPhaseAABBs": "true"
         },
