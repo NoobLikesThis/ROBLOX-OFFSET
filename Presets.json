@@ -405,9 +405,6 @@
             "DFIntPhysicsSenderMaxBandwidthBps": "100",
             "DFIntTouchSenderMaxBandwidthBpsScaling": "100"
         },
-        "Low Res": {
-            "DebugDynamicRenderKiloPixels":"2"
-        },
         "No Textures V1": {
             "RenderTextureTotalBudgetCount": "0"
         },
@@ -416,10 +413,8 @@
             "DebugTextureManagerSkipMips": "8"
         },
         "Render Optimization": {
-            "FRMFinalDistanceAddStuds": "100",
-            "FRMFinalDistanceMaxStuds": "100",
-            "FRMFinalDistanceMinStuds": "0"
-        },
+            "DFIntFRMDrawDistanceScalePercent": "100"
+        }
         "Autoclick fixer": {
             "CLI20390_2": "0"
         },
