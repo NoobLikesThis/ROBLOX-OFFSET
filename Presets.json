@@ -414,7 +414,7 @@
         },
         "Render Optimization": {
             "DFIntFRMDrawDistanceScalePercent": "100"
-        }
+        },
         "Autoclick fixer": {
             "CLI20390_2": "0"
         },
